@@ -1,1 +1,0 @@
-/home/android-jester/Projects/hello-rust/target/release/hello-rust: /home/android-jester/Projects/hello-rust/src/calculator/mod.rs /home/android-jester/Projects/hello-rust/src/calculator/run.rs /home/android-jester/Projects/hello-rust/src/main.rs
